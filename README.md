@@ -140,7 +140,7 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 <td width="50%">
 
 ### 🧠 &nbsp;NeuroLens
-**AI-powered medical detection system leveraging ML models for intelligent diagnostics.**
+**An AI-powered mental health journaling app with comprehensive emotional support, task management, breathing exercises, and evidence-based therapeutic guidance.**
 
 Built to push the boundaries of healthcare AI — combining deep learning with clinical data patterns to deliver **accurate, scalable diagnostic insights**.
 
@@ -152,11 +152,11 @@ Built to push the boundaries of healthcare AI — combining deep learning with c
 <td width="50%">
 
 ### 📚 &nbsp;MatSetu
-**Smart education platform designed to enhance learning accessibility through structured system thinking.**
+**A civic-tech platform that tracks, audits, and visualizes every change in electoral rolls — a Git for democracy.**
 
-Engineered for impact — a platform that bridges educational gaps with **intelligent content structuring** and **adaptive learning pathways**.
+Engineered for impact — a platform that bridges civic gaps with **intelligent data structuring** and **transparent governance insights**.
 
-`React` `JavaScript` `Python` `Education Tech`
+`React` `JavaScript` `Python` `Civic Tech`
 
 [![View Project](https://img.shields.io/badge/View_Project-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachdeva-aarushi/MatSetu)
 
@@ -170,7 +170,7 @@ Engineered for impact — a platform that bridges educational gaps with **intell
 
 A deep-dive into software quality — built to **quantify repository vitality** through structured data analysis, commit pattern recognition, and **actionable health scoring**.
 
-`Python` `Data Analysis` `EDA` `Git Analytics`
+`Python` `FastAPI` `Data Analysis` `EDA` `Git Analytics`
 
 [![View Project](https://img.shields.io/badge/View_Project-FF79C6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachdeva-aarushi/GitHub-Repo-Health-Analyzer)
 
