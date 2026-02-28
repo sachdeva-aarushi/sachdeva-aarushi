@@ -89,16 +89,16 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 <br>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sachdeva-aarushi&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=ff79c6&amp;icon_color=00b4d8&amp;text_color=c9d1d9&amp;ring_color=ff79c6&amp;cache_seconds=300&amp;v=2" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=sachdeva-aarushi&amp;theme=tokyonight&amp;hide_border=true&amp;background=1a1b27&amp;stroke=ff79c6&amp;ring=ff79c6&amp;fire=00b4d8&amp;currStreakLabel=ff79c6&amp;sideLabels=ff79c6&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=6272a4&amp;cache_seconds=0&amp;v=2" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachdeva-aarushi&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=ff79c6&amp;icon_color=00b4d8&amp;text_color=c9d1d9&amp;ring_color=ff79c6&amp;cache_seconds=1800" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sachdeva-aarushi&amp;theme=tokyonight&amp;hide_border=true&amp;background=1a1b27&amp;stroke=ff79c6&amp;ring=ff79c6&amp;fire=00b4d8&amp;currStreakLabel=ff79c6&amp;sideLabels=ff79c6&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=6272a4" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sachdeva-aarushi&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=ff79c6&amp;text_color=c9d1d9&amp;langs_count=8&amp;cache_seconds=300&amp;v=2" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachdeva-aarushi&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=ff79c6&amp;text_color=c9d1d9&amp;langs_count=8&amp;cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachdeva-aarushi&amp;theme=react-dark&amp;bg_color=1a1b27&amp;color=ff79c6&amp;line=00b4d8&amp;point=ff79c6&amp;area=true&amp;area_color=00b4d8&amp;hide_border=true&amp;v=2" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachdeva-aarushi&amp;theme=react-dark&amp;bg_color=1a1b27&amp;color=ff79c6&amp;line=00b4d8&amp;point=ff79c6&amp;area=true&amp;area_color=00b4d8&amp;hide_border=true" />
 </p>
 
 <br>
