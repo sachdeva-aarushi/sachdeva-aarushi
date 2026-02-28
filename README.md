@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=220&section=header&text=Aarushi%20Sachdeva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Explorer%20%7C%20Hackathon%20Winner%20%7C%20Chatpati%20Developer%20🌶️&descSize=18&descAlignY=55&descColor=ff79c6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=220&section=header&text=Aarushi%20Sachdeva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Explorer%20%7C%20Hackathon%20Winner%20%7C%20Chatpati%20Developer&descSize=18&descAlignY=55&descColor=ff79c6" />
 
 <div align="center">
 
@@ -25,19 +25,19 @@ name: Aarushi Sachdeva
 location: India 🇮🇳
 education: B.Tech — 1st Year
 role: AI/ML Explorer & Builder
-identity: Chatpati Developer 🌶️
+identity: Chatpati Developer
 ```
 
 **Driven by data. Fueled by ambition. Built for impact.**
 
 I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Intelligence** and **Machine Learning**. I don't just study models — I **build systems** that solve real-world problems, ship them under pressure, and optimize them for performance.
 
-- 🧠 &nbsp;Deep into **ML pipelines**, **EDA**, and **model evaluation**
-- 🏆 &nbsp;**Hackathon Winner** with multiple competitive finishes
-- 📊 &nbsp;Obsessed with **data-driven insights** and analytical depth
-- ⚡ &nbsp;High execution velocity — **idea → prototype → impact**
-- 🔬 &nbsp;Currently strengthening **scalable ML systems** and **optimization techniques**
-- 🌶️ &nbsp;Chatpati energy — **bold, sharp, always building something**
+- <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Deep into **ML pipelines**, **EDA**, and **model evaluation**
+- <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;**Hackathon Winner** with multiple competitive finishes
+- <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Obsessed with **data-driven insights** and analytical depth
+- <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;High execution velocity — **idea → prototype → impact**
+- <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Currently strengthening **scalable ML systems** and **optimization techniques**
+- <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Chulbuli Coder — **Sharp and Bold, Python & Git in Control**
 
 <br clear="both">
 
