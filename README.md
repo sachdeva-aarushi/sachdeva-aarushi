@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=220&section=header&text=Aarushi%20Sachdeva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Explorer%20%7C%20Hackathon%20Winner%20%7C%20Chatpati%20Developer&descSize=18&descAlignY=55&descColor=ff79c6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=220&section=header&text=Aarushi%20Sachdeva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20in%20Progress%20%7C%20Data%20Analysis%20%26%20Intelligent%20Systems%20%7C%201%20x%20Hackathon%20Winner%20%7C%20Chatpati%20Developer&descSize=16&descAlignY=55&descColor=ff79c6" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Machine+Learning+Enthusiast+%F0%9F%A7%A0;Building+Scalable+Intelligent+Systems+%F0%9F%9A%80;Hackathon-Winning+Innovator+%F0%9F%8F%86;EDA+%26+Model+Optimization+Focused+%F0%9F%93%8A;Future+AI+Engineer+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=FF79C6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Machine+Learning+Enthusiast;Building+Scalable+Intelligent+Systems;Hackathon-Winning+Innovator;EDA+%26+Model+Optimization+Focused;Future+AI+Engineer)](https://git.io/typing-svg)
 
 <br>
 
@@ -139,36 +139,30 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 <tr>
 <td width="50%">
 
-### 🧠 &nbsp;NeuroLens
+### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;NeuroLens
 **An AI-powered mental health journaling app with comprehensive emotional support, task management, breathing exercises, and evidence-based therapeutic guidance.**
-
-Built to push the boundaries of healthcare AI — combining deep learning with clinical data patterns to deliver **accurate, scalable diagnostic insights**.
 
 `Python` `Machine Learning` `Deep Learning` `Medical AI`
 
-[![View Project](https://img.shields.io/badge/View_Project-FF79C6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachdeva-aarushi/NeuroLens)
+[![View Project](https://img.shields.io/badge/View_Project-FF79C6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krix2112/Neurolens-mvp)
 
 </td>
 <td width="50%">
 
-### 📚 &nbsp;MatSetu
+### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;MatSetu
 **A civic-tech platform that tracks, audits, and visualizes every change in electoral rolls — a Git for democracy.**
-
-Engineered for impact — a platform that bridges civic gaps with **intelligent data structuring** and **transparent governance insights**.
 
 `React` `JavaScript` `Python` `Civic Tech`
 
-[![View Project](https://img.shields.io/badge/View_Project-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachdeva-aarushi/MatSetu)
+[![View Project](https://img.shields.io/badge/View_Project-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krix2112/electoral-roll-tracker)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-### 📊 &nbsp;GitHub Repo Health Analyzer
+### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;GitHub Repo Health Analyzer
 **Analytical tool evaluating repository health using commit trends, contribution metrics, and EDA principles.**
-
-A deep-dive into software quality — built to **quantify repository vitality** through structured data analysis, commit pattern recognition, and **actionable health scoring**.
 
 `Python` `FastAPI` `Data Analysis` `EDA` `Git Analytics`
 
