@@ -53,7 +53,8 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 
 ![Python](https://img.shields.io/badge/Python-FF79C6?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00B4D8?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF79C6?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-FF79C6?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00B4D8?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **`ML & Data Science`**
 
@@ -76,7 +77,7 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,fastapi,git,github,figma,vscode&theme=dark&perline=8" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,postgres,fastapi,git,github,figma,vscode&theme=dark&perline=9" alt="Tech Stack Icons" />
 </div>
 
 <br>
@@ -89,9 +90,12 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachdeva-aarushi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79c6&icon_color=00b4d8&text_color=c9d1d9&ring_color=ff79c6" alt="GitHub Stats" />
-&nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sachdeva-aarushi&theme=tokyonight&hide_border=true&background=1a1b27&stroke=ff79c6&ring=ff79c6&fire=00b4d8&currStreakLabel=ff79c6&sideLabels=ff79c6&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6272a4" alt="GitHub Streak" />
+<a href="https://github.com/sachdeva-aarushi">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachdeva-aarushi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79c6&icon_color=00b4d8&text_color=c9d1d9&ring_color=ff79c6" />
+</a>
+<a href="https://github.com/sachdeva-aarushi">
+  <img width="49%" src="https://streak-stats.demolab.com?user=sachdeva-aarushi&theme=tokyonight&hide_border=true&background=1a1b27&stroke=ff79c6&ring=ff79c6&fire=00b4d8&currStreakLabel=ff79c6&sideLabels=ff79c6&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6272a4" />
+</a>
 
 </div>
 
@@ -99,7 +103,9 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachdeva-aarushi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79c6&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<a href="https://github.com/sachdeva-aarushi">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachdeva-aarushi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79c6&text_color=c9d1d9&langs_count=8" />
+</a>
 
 </div>
 
@@ -107,18 +113,16 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sachdeva-aarushi&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+<a href="https://github.com/sachdeva-aarushi">
+  <img src="https://github-profile-trophy.vercel.app/?username=sachdeva-aarushi&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</a>
 
 </div>
 
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sachdeva-aarushi/sachdeva-aarushi/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sachdeva-aarushi/sachdeva-aarushi/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/sachdeva-aarushi/sachdeva-aarushi/output/github-snake-dark.svg" />
-  </picture>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/sachdeva-aarushi/sachdeva-aarushi/output/github-snake-dark.svg" />
 </div>
 
 <br>
