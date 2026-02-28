@@ -1,8 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=220&section=header&text=Aarushi%20Sachdeva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20in%20Progress%20%7C%20Data%20Analysis%20%26%20Intelligent%20Systems%20%7C%201%20x%20Hackathon%20Winner%20%7C%20Chatpati%20Developer&descSize=16&descAlignY=55&descColor=ff79c6" />
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=220&section=header&text=Aarushi%20Sachdeva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20in%20Progress%20%7C%20Data%20Analysis%20%26%20Intelligent%20Systems%20%7C%201%20x%20Hackathon%20Winner%20%7C%20Chatpati%20Developer&descSize=16&descAlignY=55&descColor=ff79c6)
+
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=FF79C6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Machine+Learning+Enthusiast;Building+Scalable+Intelligent+Systems;Hackathon-Winning+Innovator;EDA+%26+Model+Optimization+Focused;Future+AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=FF79C6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Machine+Learning+Enthusiast;Building+Scalable+Intelligent+Systems;Hackathon-Winning+Innovations;EDA+%26+Model+Optimization+Focused;Future+AI+Engineer)](https://git.io/typing-svg)
 
 <br>
 
@@ -224,4 +228,4 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=120&section=footer" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=120&section=footer)
