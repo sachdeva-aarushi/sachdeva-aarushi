@@ -90,7 +90,7 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sachdeva-aarushi&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=ff79c6&amp;icon_color=00b4d8&amp;text_color=c9d1d9&amp;ring_color=ff79c6&amp;cache_seconds=1800&amp;v=3" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=sachdeva-aarushi&amp;theme=tokyonight&amp;hide_border=true&amp;background=1a1b27&amp;stroke=ff79c6&amp;ring=ff79c6&amp;fire=00b4d8&amp;currStreakLabel=ff79c6&amp;sideLabels=ff79c6&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=6272a4&amp;v=3" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sachdeva-aarushi&amp;theme=tokyonight&amp;hide_border=true&amp;background=1a1b27&amp;stroke=ff79c6&amp;ring=ff79c6&amp;fire=00b4d8&amp;currStreakLabel=ff79c6&amp;sideLabels=ff79c6&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=6272a4&amp;starting_year=2025&amp;v=4" />
 </p>
 
 <p align="center">
