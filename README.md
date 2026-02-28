@@ -102,7 +102,7 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 </p>
 
 <p align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/sachdeva-aarushi/sachdeva-aarushi/output/github-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachdeva-aarushi&amp;theme=react-dark&amp;bg_color=1a1b27&amp;color=ff79c6&amp;line=00b4d8&amp;point=ff79c6&amp;area=true&amp;area_color=00b4d8&amp;hide_border=true" />
 </p>
 
 <br>
