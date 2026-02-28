@@ -62,12 +62,7 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-00B4D8?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF79C6?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-00B4D8?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### **`Web Development`**
-
-![React](https://img.shields.io/badge/React-FF79C6?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-00B4D8?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF79C6?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-FF79C6?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### **`Tools & Platforms`**
 
@@ -81,7 +76,7 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,git,github,figma,vscode&theme=dark&perline=10" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,fastapi,git,github,figma,vscode&theme=dark&perline=8" alt="Tech Stack Icons" />
 </div>
 
 <br>
