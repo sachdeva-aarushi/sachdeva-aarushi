@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=220&section=header&text=Aarushi%20Sachdeva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20in%20Progress%20%7C%20Data%20Analysis%20%26%20Intelligent%20Systems%20%7C%201%20x%20Hackathon%20Winner%20%7C%20Chatpati%20Developer&descSize=16&descAlignY=55&descColor=ff79c6)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=220&section=header&text=Aarushi%20Sachdeva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20in%20Progress%20%7C%20Data%20Analysis%20%26amp%3B%20Intelligent%20Systems%20%7C%201%20x%20Hackathon%20Winner%20%7C%20Chatpati%20Developer&descSize=16&descAlignY=55&descColor=ff79c6)
 
 <div align="center">
 
