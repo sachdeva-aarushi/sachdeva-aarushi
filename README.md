@@ -1,8 +1,4 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,2,20&amp;height=220&amp;section=header&amp;text=Aarushi%20Sachdeva&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=ML%20Engineer%20in%20Progress%20%7C%20Data%20Analysis%20%26%20Intelligent%20Systems%20%7C%201%20x%20Hackathon%20Winner%20%7C%20Chatpati%20Developer&amp;descSize=16&amp;descAlignY=55&amp;descColor=ff79c6" alt="Header" />
-
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=220&section=header&text=Aarushi%20Sachdeva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20in%20Progress%20%7C%20Data%20Analysis%20%26%20Intelligent%20Systems%20%7C%201%20x%20Hackathon%20Winner%20%7C%20Chatpati%20Developer&descSize=16&descAlignY=55&descColor=ff79c6)
 
 <div align="center">
 
@@ -92,42 +88,22 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 
 <br>
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachdeva-aarushi&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=ff79c6&amp;icon_color=00b4d8&amp;text_color=c9d1d9&amp;ring_color=ff79c6&amp;cache_seconds=1800" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sachdeva-aarushi&amp;theme=tokyonight&amp;hide_border=true&amp;background=1a1b27&amp;stroke=ff79c6&amp;ring=ff79c6&amp;fire=00b4d8&amp;currStreakLabel=ff79c6&amp;sideLabels=ff79c6&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=6272a4" />
+</p>
 
-<a href="https://github.com/sachdeva-aarushi">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachdeva-aarushi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79c6&icon_color=00b4d8&text_color=c9d1d9&ring_color=ff79c6" />
-</a>
-<a href="https://github.com/sachdeva-aarushi">
-  <img width="49%" src="https://streak-stats.demolab.com?user=sachdeva-aarushi&theme=tokyonight&hide_border=true&background=1a1b27&stroke=ff79c6&ring=ff79c6&fire=00b4d8&currStreakLabel=ff79c6&sideLabels=ff79c6&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6272a4" />
-</a>
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachdeva-aarushi&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=ff79c6&amp;text_color=c9d1d9&amp;langs_count=8&amp;cache_seconds=1800" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sachdeva-aarushi&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;column=7" />
+</p>
 
-<br>
-
-<div align="center">
-
-<a href="https://github.com/sachdeva-aarushi">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachdeva-aarushi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79c6&text_color=c9d1d9&langs_count=8" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/sachdeva-aarushi">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachdeva-aarushi&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
+<p align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/sachdeva-aarushi/sachdeva-aarushi/output/github-snake-dark.svg" />
-</div>
+</p>
 
 <br>
 
@@ -228,4 +204,4 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,2,20&amp;height=120&amp;section=footer" alt="Footer" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=120&section=footer)
