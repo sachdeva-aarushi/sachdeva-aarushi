@@ -137,12 +137,12 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 <tr>
 <td colspan="2" align="center">
 
-### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;GitHub Repo Health Analyzer
-**Analytical tool evaluating repository health using commit trends, contribution metrics, and EDA principles.**
+### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Narrative Toxicity Detector
+**A machine learning system that identifies toxic language, insults, and harmful narrative patterns in online conversations using NLP and transformer-based models.**
 
-`Python` `FastAPI` `Data Analysis` `EDA` `Git Analytics`
+`Python` `NLP` `Transformers` `Machine Learning` `Text Classification`
 
-[![View Project](https://img.shields.io/badge/View_Project-FF79C6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachdeva-aarushi/GitHub-Repo-Health-Analyzer)
+[![View Project](https://img.shields.io/badge/View_Project-FF79C6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachdeva-aarushi/narrative-toxicity-detector)
 
 </td>
 </tr>
