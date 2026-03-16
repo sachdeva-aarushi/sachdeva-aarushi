@@ -25,7 +25,7 @@ name: Aarushi Sachdeva
 location: India 🇮🇳
 education: B.Tech — 1st Year
 role: AI/ML Explorer & Builder
-identity: Chatpati Developer
+identity: Latent Space
 ```
 
 **Driven by data. Fueled by ambition. Built for impact.**
