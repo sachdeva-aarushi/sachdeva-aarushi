@@ -37,7 +37,7 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 - <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Obsessed with **data-driven insights** and analytical depth
 - <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;High execution velocity — **idea → prototype → impact**
 - <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Currently strengthening **scalable ML systems** and **optimization techniques**
-- <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Chulbuli Coder — **Sharp and Bold, Python & Git in Control**
+- <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp; Commit Goblin — **Sharp and Bold, Python & Git in Control**
 
 <br clear="both">
 
