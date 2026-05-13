@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=220&section=header&text=Aarushi%20Sachdeva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20in%20Progress%20%7C%20Data%20Analysis%20%26amp%3B%20Intelligent%20Systems%20%7C%201%20x%20Hackathon%20Winner&descSize=16&descAlignY=55&descColor=ff79c6)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=220&section=header&text=Aarushi%20Sachdeva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20in%20Progress%20%7C%20Data%20Analysis%20%26amp%3B%20Intelligent%20Systems%20%7C%202%20x%20Hackathon%20Winner&descSize=16&descAlignY=55&descColor=ff79c6)
 
 <div align="center">
 
@@ -33,7 +33,7 @@ identity: Latent Space
 I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Intelligence** and **Machine Learning**. I don't just study models — I **build systems** that solve real-world problems, ship them under pressure, and optimize them for performance.
 
 - <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Deep into **ML pipelines**, **EDA**, and **model evaluation**
-- <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;**Hackathon Winner** with multiple competitive finishes
+- <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;**2x Hackathon Winner** with multiple competitive finishes
 - <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Obsessed with **data-driven insights** and analytical depth
 - <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;High execution velocity — **idea → prototype → impact**
 - <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Currently strengthening **scalable ML systems** and **optimization techniques**
@@ -135,7 +135,7 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td width="50%">
 
 ### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Narrative Toxicity Detector
 **A machine learning system that identifies toxic language, insults, and harmful narrative patterns in online conversations using NLP and transformer-based models.**
@@ -143,6 +143,16 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 `Python` `NLP` `Transformers` `Machine Learning` `Text Classification`
 
 [![View Project](https://img.shields.io/badge/View_Project-FF79C6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachdeva-aarushi/narrative-toxicity-detector)
+
+</td>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;NeuroGit
+**Advanced full-stack platform designed to extract, analyze, and narrate the operational health, maintainability, and risk profile of open-source repositories.**
+
+`Python` `Machine Learning` `Full Stack` `Data Analytics`
+
+[![View Project](https://img.shields.io/badge/View_Project-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachdeva-aarushi/github-repo-health-analyzer)
 
 </td>
 </tr>
@@ -162,7 +172,7 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 
 | &nbsp; | Achievement | Details |
 |:---:|:---|:---|
-| 🏆 | **Hackathon Winner** | Built and shipped a winning solution under competitive pressure |
+| 🏆 | **2x Hackathon Winner** | Built and shipped winning solutions under competitive pressure |
 | 🥇 | **2x Hackathon Finalist** | Consistently performed at the top across multiple competitions |
 | 🚀 | **Production-Ready Systems** | Multiple ML-focused projects shipped and deployed |
 | 📊 | **EDA & Optimization** | Actively deepening expertise in data analysis and model tuning |
