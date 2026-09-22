@@ -23,21 +23,19 @@
 ```yaml
 name: Aarushi Sachdeva
 location: India
-education: B.Tech — 1st Year
-role: AI/ML Explorer & Builder
-identity: Latent Space
+education: B.Tech — 2nd Year
+role: AI/ML Developer @ GDSC
 ```
 
 **Driven by data. Fueled by ambition. Built for impact.**
 
-I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Intelligence** and **Machine Learning**. I don't just study models — I **build systems** that solve real-world problems, ship them under pressure, and optimize them for performance.
+I'm a second-year **B.Tech student** with an obsessive focus on **Artificial Intelligence** and **Machine Learning**. I don't just study models — I **build systems** that solve real-world problems, ship them under pressure, and optimize them for performance.
 
 - <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Deep into **ML pipelines**, **EDA**, and **model evaluation**
 - <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;**2x Hackathon Winner** with multiple competitive finishes
 - <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Obsessed with **data-driven insights** and analytical depth
 - <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;High execution velocity — **idea → prototype → impact**
 - <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Currently strengthening **scalable ML systems** and **optimization techniques**
-- <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp; Commit Goblin — **Sharp and Bold, Python & Git in Control**
 
 <br clear="both">
 
@@ -98,7 +96,7 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph-psi.vercel.app/graph?username=sachdeva-aarushi&amp;theme=react-dark&amp;bg_color=1a1b27&amp;color=ff79c6&amp;line=00b4d8&amp;point=ff79c6&amp;area=true&amp;area_color=00b4d8&amp;hide_border=true" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachdeva-aarushi&amp;theme=tokyonight" />
 </p>
 
 <br>
