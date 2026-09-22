@@ -22,7 +22,7 @@
 
 ```yaml
 name: Aarushi Sachdeva
-location: India 🇮🇳
+location: India
 education: B.Tech — 1st Year
 role: AI/ML Explorer & Builder
 identity: Latent Space
@@ -115,44 +115,70 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 <tr>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;NeuroLens
-**An AI-powered mental health journaling app with comprehensive emotional support, task management, breathing exercises, and evidence-based therapeutic guidance.**
+### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Nova
+**Agentic industrial risk intelligence system that detects compound safety risks by correlating real-time operational signals, contextual memory, and historical incidents — then reasons, communicates, acts, and learns.**
 
-`Python` `Machine Learning` `Deep Learning` `Medical AI`
+`Python` `AI Agents` `Risk Intelligence` `Real-Time Systems`
 
-[![View Project](https://img.shields.io/badge/View_Project-FF79C6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krix2112/Neurolens-mvp)
+[![View Project](https://img.shields.io/badge/View_Project-FF79C6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachdeva-aarushi/Nova)
 
 </td>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;MatSetu
-**A civic-tech platform that tracks, audits, and visualizes every change in electoral rolls — a Git for democracy.**
+### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Narrative Toxicity Detector
+**NLP-based ML system that detects toxicity, insults, and harmful narrative patterns in online conversations using transformer embeddings and supervised learning.**
 
-`React` `JavaScript` `Python` `Civic Tech`
+`Python` `NLP` `Transformers` `Machine Learning` `Text Classification`
 
-[![View Project](https://img.shields.io/badge/View_Project-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krix2112/electoral-roll-tracker)
+[![View Project](https://img.shields.io/badge/View_Project-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachdeva-aarushi/narrative-toxicity-detector)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;Narrative Toxicity Detector
-**A machine learning system that identifies toxic language, insults, and harmful narrative patterns in online conversations using NLP and transformer-based models.**
-
-`Python` `NLP` `Transformers` `Machine Learning` `Text Classification`
-
-[![View Project](https://img.shields.io/badge/View_Project-FF79C6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachdeva-aarushi/narrative-toxicity-detector)
-
-</td>
-<td width="50%">
-
-### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;NeuroGit
+### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;GitIntel
 **Advanced full-stack platform designed to extract, analyze, and narrate the operational health, maintainability, and risk profile of open-source repositories.**
 
 `Python` `Machine Learning` `Full Stack` `Data Analytics`
 
-[![View Project](https://img.shields.io/badge/View_Project-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachdeva-aarushi/github-repo-health-analyzer)
+[![View Project](https://img.shields.io/badge/View_Project-FF79C6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachdeva-aarushi/GitIntel)
+
+</td>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;AgroChain
+**Blockchain-powered agricultural supply chain platform ensuring transparency, traceability, and fair pricing from farm to consumer.**
+
+`React` `JavaScript` `Blockchain` `Supply Chain`
+
+[![View Project](https://img.shields.io/badge/View_Project-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachdeva-aarushi/AgroChain)
+&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF79C6?style=for-the-badge&logo=vercel&logoColor=white)](https://agro-chain-web.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;MatSetu — Electoral Roll Tracker
+**A civic-tech platform that tracks, audits, and visualizes every change in electoral rolls — a Git for democracy.**
+
+`React` `JavaScript` `Python` `Civic Tech`
+
+[![View Project](https://img.shields.io/badge/View_Project-FF79C6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachdeva-aarushi/electoral-roll-tracker)
+&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://electoral-roll-tracker-one.vercel.app/)
+
+</td>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/%E2%9E%9C-ff79c6?style=flat-square&labelColor=1a1b27" height="16" /> &nbsp;NeuroLens
+**An AI-powered mental health journaling app with comprehensive emotional support, task management, breathing exercises, and evidence-based therapeutic guidance.**
+
+`Python` `Machine Learning` `Deep Learning` `Medical AI`
+
+[![View Project](https://img.shields.io/badge/View_Project-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krix2112/Neurolens-mvp)
 
 </td>
 </tr>
@@ -172,11 +198,25 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 
 | &nbsp; | Achievement | Details |
 |:---:|:---|:---|
-| 🏆 | **2x Hackathon Winner** | Built and shipped winning solutions under competitive pressure |
-| 🥇 | **2x Hackathon Finalist** | Consistently performed at the top across multiple competitions |
-| 🚀 | **Production-Ready Systems** | Multiple ML-focused projects shipped and deployed |
-| 📊 | **EDA & Optimization** | Actively deepening expertise in data analysis and model tuning |
-| ⚡ | **High Execution Velocity** | Idea to prototype in hours — built to perform under pressure |
+| &nbsp; | **2x Hackathon Winner** | Built and shipped winning solutions under competitive pressure |
+| &nbsp; | **5x Hackathon Finalist** | Consistently performed at the top across multiple competitions |
+| &nbsp; | **GSSoC 2026 Contributor** | Open Source & AI Agents Track — Contributed to agentic intelligence and built & shipped **10+ AI Agents** on Smartly Infra |
+| &nbsp; | **Top 2% — GSSoC 2026** | Ranked in the **Top 2%** of all GSSoC 2026 contributors and under **Top 100** on Smartly Infra |
+
+
+<br>
+
+### &nbsp;`GSSoC 2026 Badges`
+
+<p align="center">
+  <img src="./assets/gssoc-badge-building_momentum%20(1).png" width="120" alt="GSSoC Building Momentum Badge" />
+  &nbsp;&nbsp;
+  <img src="./assets/gssoc-badge-rising_star%20(1).png" width="120" alt="GSSoC Rising Star Badge" />
+  &nbsp;&nbsp;
+  <img src="./assets/gssoc-badge-power_contributor%20(1).png" width="120" alt="GSSoC Power Contributor Badge" />
+  &nbsp;&nbsp;
+  <img src="./assets/gssoc-badge-elite%20(1).png" width="120" alt="GSSoC Elite Badge" />
+</p>
 
 </div>
 
@@ -199,7 +239,7 @@ I'm a first-year **B.Tech student** with an obsessive focus on **Artificial Inte
 <br><br>
 
 ```
-⚡ "Data tells stories. I build the systems that listen." ⚡
+"Data tells stories. I build the systems that listen."
 ```
 
 <br>
