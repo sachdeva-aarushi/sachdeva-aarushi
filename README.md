@@ -187,11 +187,11 @@ A curated catalog of production systems, autonomous agent architectures, and awa
     </td>
     <td width="50%" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/02_FLAGSHIP-TRADENEXUS-059669?style=for-the-badge&labelColor=0B192C" alt="TradeNexus" />
+        <img src="https://img.shields.io/badge/02_FLAGSHIP-TRADENEXUS-1E3A8A?style=for-the-badge&labelColor=0B192C" alt="TradeNexus" />
         <br>
-        <img src="https://img.shields.io/badge/Agri--Commodities-20%2B_AI_Agents-10B981?style=flat-square&labelColor=0B192C" alt="CTRM" />
+        <img src="https://img.shields.io/badge/Agri--Commodities-20%2B_AI_Agents-3B82F6?style=flat-square&labelColor=0B192C" alt="CTRM" />
         &nbsp;
-        <a href="https://github.com/sachdeva-aarushi/TradeNexus"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=34D399" alt="Repo" /></a>
+        <a href="https://github.com/sachdeva-aarushi/TradeNexus"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=60A5FA" alt="Repo" /></a>
       </p>
       <p>
         <b>Autonomous multilingual CTRM platform for global agricultural commodities trading, quantitative risk pricing, and automated contract workflows.</b>
@@ -211,9 +211,9 @@ A curated catalog of production systems, autonomous agent architectures, and awa
   <tr>
     <td width="50%" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/03_CIVIC_TECH-MATSETU-D97706?style=for-the-badge&labelColor=0B192C" alt="MatSetu" />
+        <img src="https://img.shields.io/badge/03_CIVIC_TECH-MATSETU-1E40AF?style=for-the-badge&labelColor=0B192C" alt="MatSetu" />
         <br>
-        <img src="https://img.shields.io/badge/1st_Runner_Up-SnowFrost_Hackathon_2026-F59E0B?style=flat-square&labelColor=0B192C" alt="Award" />
+        <img src="https://img.shields.io/badge/1st_Runner_Up-SnowFrost_Hackathon_2026-2563EB?style=flat-square&labelColor=0B192C" alt="Award" />
         &nbsp;
         <a href="https://github.com/sachdeva-aarushi/MatSetu"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=FBBF24" alt="Repo" /></a>
       </p>
@@ -231,9 +231,9 @@ A curated catalog of production systems, autonomous agent architectures, and awa
     </td>
     <td width="50%" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/04_DECENTRALIZED-AGROCHAIN-0891B2?style=for-the-badge&labelColor=0B192C" alt="AgroChain" />
+        <img src="https://img.shields.io/badge/04_DECENTRALIZED-AGROCHAIN-0284C7?style=for-the-badge&labelColor=0B192C" alt="AgroChain" />
         <br>
-        <img src="https://img.shields.io/badge/2nd_Runner_Up-InOutHacks_2026-06B6D4?style=flat-square&labelColor=0B192C" alt="Award" />
+        <img src="https://img.shields.io/badge/2nd_Runner_Up-InOutHacks_2026-38BDF8?style=flat-square&labelColor=0B192C" alt="Award" />
         &nbsp;
         <a href="https://github.com/sachdeva-aarushi/AgroChain"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=22D3EE" alt="Repo" /></a>
       </p>
@@ -255,11 +255,11 @@ A curated catalog of production systems, autonomous agent architectures, and awa
   <tr>
     <td width="50%" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/05_TELEMETRY-GITINTEL-7C3AED?style=for-the-badge&labelColor=0B192C" alt="GitIntel" />
+        <img src="https://img.shields.io/badge/05_TELEMETRY-GITINTEL-312E81?style=for-the-badge&labelColor=0B192C" alt="GitIntel" />
         <br>
-        <img src="https://img.shields.io/badge/Velocity_Scoring-Async_Telemetry-8B5CF6?style=flat-square&labelColor=0B192C" alt="Telemetry" />
+        <img src="https://img.shields.io/badge/Velocity_Scoring-Async_Telemetry-3B82F6?style=flat-square&labelColor=0B192C" alt="Telemetry" />
         &nbsp;
-        <a href="https://github.com/sachdeva-aarushi/GitIntel"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=A78BFA" alt="Repo" /></a>
+        <a href="https://github.com/sachdeva-aarushi/GitIntel"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=818CF8" alt="Repo" /></a>
       </p>
       <p>
         <b>Developer velocity telemetry engine that quantifies engineering activity, PR review cycles, and codebase momentum.</b>
@@ -275,11 +275,11 @@ A curated catalog of production systems, autonomous agent architectures, and awa
     </td>
     <td width="50%" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/06_HEALTHCARE_AI-KYRO-E11D48?style=for-the-badge&labelColor=0B192C" alt="Kyro" />
+        <img src="https://img.shields.io/badge/06_HEALTHCARE_AI-KYRO-0369A1?style=for-the-badge&labelColor=0B192C" alt="Kyro" />
         <br>
-        <img src="https://img.shields.io/badge/Clinical_Triage-Differential_Diagnosis-F43F5E?style=flat-square&labelColor=0B192C" alt="Healthcare" />
+        <img src="https://img.shields.io/badge/Clinical_Triage-Differential_Diagnosis-0284C7?style=flat-square&labelColor=0B192C" alt="Healthcare" />
         &nbsp;
-        <a href="https://github.com/sachdeva-aarushi/Kyro"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=FB7185" alt="Repo" /></a>
+        <a href="https://github.com/sachdeva-aarushi/Kyro"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=7DD3FC" alt="Repo" /></a>
       </p>
       <p>
         <b>Intelligent clinical symptom triage and differential diagnosis advisory platform designed for frontline health workers.</b>
@@ -299,11 +299,11 @@ A curated catalog of production systems, autonomous agent architectures, and awa
   <tr>
     <td width="50%" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/07_ADVERSARIAL_NLP-TOXICITY_DETECTOR-EA580C?style=for-the-badge&labelColor=0B192C" alt="Toxicity" />
+        <img src="https://img.shields.io/badge/07_ADVERSARIAL_NLP-TOXICITY_DETECTOR-2563EB?style=for-the-badge&labelColor=0B192C" alt="Toxicity" />
         <br>
-        <img src="https://img.shields.io/badge/Contextual_Moderation-HuggingFace_SOTA-F97316?style=flat-square&labelColor=0B192C" alt="SOTA" />
+        <img src="https://img.shields.io/badge/Contextual_Moderation-HuggingFace_SOTA-1D4ED8?style=flat-square&labelColor=0B192C" alt="SOTA" />
         &nbsp;
-        <a href="https://github.com/sachdeva-aarushi/narrative-toxicity-detector"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=FB923C" alt="Repo" /></a>
+        <a href="https://github.com/sachdeva-aarushi/narrative-toxicity-detector"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=60A5FA" alt="Repo" /></a>
       </p>
       <p>
         <b>Transformer-based moderation pipeline detecting veiled toxicity, sarcasm, and adversarial subtext in complex online discourse.</b>
@@ -319,11 +319,11 @@ A curated catalog of production systems, autonomous agent architectures, and awa
     </td>
     <td width="50%" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/08_HEALTHCARE-NIMA-C026D3?style=for-the-badge&labelColor=0B192C" alt="Nima" />
+        <img src="https://img.shields.io/badge/08_HEALTHCARE-NIMA-0891B2?style=for-the-badge&labelColor=0B192C" alt="Nima" />
         <br>
-        <img src="https://img.shields.io/badge/Selected_Builder-SheBuilds_Season_3-D946EF?style=flat-square&labelColor=0B192C" alt="Selected" />
+        <img src="https://img.shields.io/badge/Selected_Builder-SheBuilds_Season_3-06B6D4?style=flat-square&labelColor=0B192C" alt="Selected" />
         &nbsp;
-        <a href="https://github.com/sachdeva-aarushi/Nima"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=E879F9" alt="Repo" /></a>
+        <a href="https://github.com/sachdeva-aarushi/Nima"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=67E8F9" alt="Repo" /></a>
       </p>
       <p>
         <b>AI-driven maternal healthcare and dietary counseling assistant delivering localized medical guidance.</b>
@@ -353,39 +353,52 @@ A curated catalog of production systems, autonomous agent architectures, and awa
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Google Developer Groups (GDG) OnCampus &mdash; JSS</h4>
       <p>
-        <b>AI/ML Developer &amp; Domain Team Member</b>
+        <img src="https://img.shields.io/badge/LEADERSHIP_%26_DEV-GDG_ONCAMPUS_JSS-1D4ED8?style=for-the-badge&labelColor=0B192C" alt="GDG OnCampus" />
         <br>
-        <i>March 2026 &ndash; Present</i>
+        <img src="https://img.shields.io/badge/Role-AI%2FML_Developer-2563EB?style=flat-square&labelColor=0B192C" alt="Role" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Domain-Computer_Vision_%26_NLP-0284C7?style=flat-square&labelColor=0B192C" alt="Domain" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Timeline-March_2026_--_Present-1E3A8A?style=flat-square&labelColor=0B192C" alt="Timeline" />
+      </p>
+      <p>
+        <b>AI/ML developer on the GDG OnCampus JSS team, turning ideas in computer vision and NLP into practical prototypes while helping build a stronger campus developer community.</b>
       </p>
       <ul>
-        <li>Collaborating on computer vision, deep learning, and NLP project initiatives.</li>
-        <li>Engineering machine learning models and end-to-end prototypes using Python, PyTorch, and Scikit-learn.</li>
-        <li>Leading technical workshops, mentoring peers, and driving operational workflows for flagship campus tech events.</li>
+        <li><b>Applied ML:</b> Collaborating on computer vision and NLP projects with Python and Scikit-learn.</li>
+        <li><b>Community &amp; Events:</b> Supporting society activities, technical event coordination, and operational workflows.</li>
+        <li><b>Build mindset:</b> Connecting experiments to useful, real-world project experiences.</li>
       </ul>
+      <p>
+        <code>Python</code> &bull; <code>Machine Learning</code> &bull; <code>Computer Vision</code> &bull; <code>NLP</code> &bull; <code>Scikit-learn</code>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h4>GirlScript Summer of Code 2026 (GSSoC)</h4>
       <p>
-        <b>Open Source &amp; AI Agents Contributor &bull; <a href="https://gssoc.girlscript.org/profile/85b6e6df-a366-4ee2-bc18-1ef150b311a8">GSSoC Profile</a></b>
+        <img src="https://img.shields.io/badge/OPEN_SOURCE-GSSOC_2026-1E40AF?style=for-the-badge&labelColor=0B192C" alt="GSSoC 2026" />
         <br>
-        <i>May 2026 &ndash; September 2026 &bull; <b>Global Top 2% (Rank #818 / 47,935)</b></i>
+        <img src="https://img.shields.io/badge/Global_Rank-Top_2%25_(%23818_%2F_47%2C935)-2563EB?style=flat-square&labelColor=0B192C" alt="Rank" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Track-AI_Agents_%26_Python-0284C7?style=flat-square&labelColor=0B192C" alt="Track" />
+        &nbsp;
+        <a href="https://gssoc.girlscript.org/profile/85b6e6df-a366-4ee2-bc18-1ef150b311a8"><img src="https://img.shields.io/badge/GSSoC-Verified_Profile_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=38BDF8" alt="Profile" /></a>
+      </p>
+      <p>
+        <b>Open-source contributor across Python and AI repositories, placing in the top 2% of GSSoC 2026 and the top 100 globally in the AI Agents track on Smartly Infra.</b>
       </p>
       <ul>
-        <li>Merged dozens of mission-critical pull requests across high-visibility Python and AI codebases.</li>
-        <li>Resolved critical security vulnerabilities, server crashes, prompt injection vectors, and concurrency timeouts.</li>
-        <li>Architected and hardened autonomous multi-agent workflows across open-source ecosystems.</li>
+        <li><b>Shipped contributions:</b> Merged pull requests across Python and AI projects.</li>
+        <li><b>Reliability fixes:</b> Addressed security vulnerabilities, server crashes, prompt-injection issues, and timeouts.</li>
+        <li><b>AI agent workflows:</b> Built and improved workflows to make agent systems more capable and dependable.</li>
       </ul>
+      <p>
+        <code>Open Source</code> &bull; <code>AI Agents</code> &bull; <code>Python</code> &bull; <code>Reliability</code> &bull; <code>GitHub</code>
+      </p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="assets/divider.svg" width="100%" alt="divider" />
-</p>
-
-<!-- ======================================================= -->
 <!-- HONORS & ACHIEVEMENTS -->
 <!-- ======================================================= -->
 
