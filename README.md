@@ -5,13 +5,13 @@
 <h1 align="center">AARUSHI SACHDEVA</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML_Developer-GDG_OnCampus-103D46?style=for-the-badge&labelColor=071923&color=63A6A0" alt="GDG OnCampus" />
+  <img src="https://img.shields.io/badge/AI%2FML_Developer-GDG_OnCampus-1D4ED8?style=for-the-badge&labelColor=0B192C" alt="GDG OnCampus" />
   &nbsp;
-  <img src="https://img.shields.io/badge/3x-Hackathon_Winner-C6A66B?style=for-the-badge&labelColor=071923&color=C6A66B" alt="3x Hackathon Winner" />
+  <img src="https://img.shields.io/badge/3x-Hackathon_Winner-0284C7?style=for-the-badge&labelColor=0B192C" alt="3x Hackathon Winner" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GSSoC_'26-Top_2%25_Global-103D46?style=for-the-badge&labelColor=071923&color=C6A66B" alt="GSSoC Top 2%" />
+  <img src="https://img.shields.io/badge/GSSoC_2026-Top_2%25_Global-2563EB?style=for-the-badge&labelColor=0B192C" alt="GSSoC Top 2%" />
   &nbsp;
-  <img src="https://img.shields.io/badge/B.Tech_CS_(AI%2FML)-9.0_CGPA-071923?style=for-the-badge&labelColor=071923&color=E8E5DC" alt="9.0 CGPA" />
+  <img src="https://img.shields.io/badge/B.Tech_CS_(AI%2FML)-9.0_CGPA-1E40AF?style=for-the-badge&labelColor=0B192C" alt="9.0 CGPA" />
 </p>
 
 <p align="center">
@@ -107,34 +107,34 @@
 
 ## &nbsp;Technical Repertoire
 
-Curated engineering domains, tools, and paradigms I design with daily.
+Curated engineering domains, autonomous paradigms, and production frameworks engineered for high throughput and deterministic reliability.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/DOMAIN-AI_%26_DEEP_LEARNING-C6A66B?style=flat-square&labelColor=071923" alt="AI & ML" />
-      </p>
-      <code>PyTorch</code> &bull; <code>TensorFlow</code> &bull; <code>Scikit-learn</code> &bull; <code>NLP</code> &bull; <code>Neural Networks</code> &bull; <code>Generative AI</code> &bull; <code>Transformer Embeddings</code> &bull; <code>Chronos</code> &bull; <code>LSTM / Prophet</code>
-      <br><br>
-      <p>
-        <img src="https://img.shields.io/badge/DOMAIN-AGENTIC_AI_%26_RAG-103D46?style=flat-square&labelColor=071923&color=63A6A0" alt="Agentic AI" />
-      </p>
-      <code>Multi-Agent Swarms</code> &bull; <code>RAG Architectures</code> &bull; <code>Vector DBs (pgvector, FAISS)</code> &bull; <code>Incident Memory</code> &bull; <code>Prompt Engineering</code> &bull; <code>Tool-Use / Function Calling</code>
-    </td>
-    <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/DOMAIN-BACKEND_%26_DATA_SYSTEMS-103D46?style=flat-square&labelColor=071923&color=C6A66B" alt="Backend" />
-      </p>
-      <code>FastAPI</code> &bull; <code>Flask</code> &bull; <code>Django REST Framework</code> &bull; <code>PostgreSQL</code> &bull; <code>Redis Caching</code> &bull; <code>MySQL</code> &bull; <code>Pandas</code> &bull; <code>WebSockets</code> &bull; <code>REST APIs</code>
-      <br><br>
-      <p>
-        <img src="https://img.shields.io/badge/DOMAIN-LANGUAGES_%26_FRONTEND-63A6A0?style=flat-square&labelColor=071923" alt="Frontend & Languages" />
-      </p>
-      <code>Python</code> &bull; <code>C++</code> &bull; <code>TypeScript</code> &bull; <code>JavaScript</code> &bull; <code>SQL</code> &bull; <code>React</code> &bull; <code>Next.js</code> &bull; <code>Tailwind CSS</code> &bull; <code>Three.js (3D Twins)</code> &bull; <code>Git / GitHub</code>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/skills.svg" alt="Technical Skills and Frameworks Matrix" width="100%" />
+</p>
+
+<details>
+  <summary><b>&blacktriangleright; Detailed Framework &amp; Tooling Breakdown</b></summary>
+  <br>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <p><b>&bull; AI &amp; DEEP LEARNING</b></p>
+        <code>PyTorch</code> &bull; <code>TensorFlow</code> &bull; <code>Scikit-learn</code> &bull; <code>Neural Networks</code> &bull; <code>Generative AI</code> &bull; <code>Transformer Embeddings</code> &bull; <code>Adversarial NLP</code> &bull; <code>Chronos Foundation Models</code> &bull; <code>LSTM / Prophet</code> &bull; <code>HuggingFace Hub</code>
+        <br><br>
+        <p><b>&bull; AGENTIC AI &amp; RAG ARCHITECTURES</b></p>
+        <code>Multi-Agent Swarms</code> &bull; <code>RAG Architectures</code> &bull; <code>Vector DBs (pgvector, FAISS)</code> &bull; <code>Incident Memory</code> &bull; <code>Tool-Use &amp; Function Calling</code> &bull; <code>Prompt Engineering</code> &bull; <code>LangChain</code> &bull; <code>LlamaIndex</code>
+      </td>
+      <td width="50%" valign="top">
+        <p><b>&bull; BACKEND &amp; DATA SYSTEMS</b></p>
+        <code>FastAPI</code> &bull; <code>Flask</code> &bull; <code>Django REST Framework</code> &bull; <code>PostgreSQL</code> &bull; <code>Redis Caching</code> &bull; <code>MySQL</code> &bull; <code>Pandas</code> &bull; <code>WebSockets (Live Stream)</code> &bull; <code>RESTful APIs</code> &bull; <code>Docker</code>
+        <br><br>
+        <p><b>&bull; LANGUAGES &amp; INTERFACES</b></p>
+        <code>Python</code> &bull; <code>C++</code> &bull; <code>TypeScript</code> &bull; <code>JavaScript</code> &bull; <code>SQL</code> &bull; <code>React</code> &bull; <code>Next.js</code> &bull; <code>Tailwind CSS</code> &bull; <code>Three.js (3D Digital Twins)</code> &bull; <code>Git / GitHub</code> &bull; <code>Linux CLI</code>
+      </td>
+    </tr>
+  </table>
+</details>
 
 <br>
 
@@ -143,7 +143,7 @@ Curated engineering domains, tools, and paradigms I design with daily.
 </div>
 
 <details>
-  <summary><b>&blacktriangleright; Architecture & Implementation Philosophy</b></summary>
+  <summary><b>&blacktriangleright; Architecture &amp; Implementation Philosophy</b></summary>
   <br>
   <blockquote>
     "I prioritize deterministic guardrails over ungrounded generative prompts, low-latency asynchronous telemetry over blocking batch calls, and zero direct actuator writes without human-in-the-loop safety protocols."
@@ -169,11 +169,11 @@ All primary systems, architectures, and production prototypes organized into one
   <tr>
     <td width="100%" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/01_FEATURED-NOVA-C6A66B?style=for-the-badge&labelColor=071923" alt="Nova" />
+        <img src="https://img.shields.io/badge/01_FLAGSHIP-NOVA-1D4ED8?style=for-the-badge&labelColor=0B192C" alt="Nova" />
         &nbsp;
-        <img src="https://img.shields.io/badge/Industrial_Risk_Intelligence-Real--Time_Telemetry-103D46?style=for-the-badge&labelColor=071923&color=63A6A0" alt="Telemetry" />
+        <img src="https://img.shields.io/badge/Industrial_Risk_Intelligence-Real--Time_Telemetry-0284C7?style=for-the-badge&labelColor=0B192C" alt="Telemetry" />
         &nbsp;
-        <a href="https://github.com/sachdeva-aarushi/nova"><img src="https://img.shields.io/badge/GitHub-Repository_&rarr;-071923?style=for-the-badge&logo=github&logoColor=C6A66B" alt="Repo" /></a>
+        <a href="https://github.com/sachdeva-aarushi/nova"><img src="https://img.shields.io/badge/GitHub-Repository_&rarr;-0B192C?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Repo" /></a>
       </p>
       <p>
         <b>An agentic industrial risk-intelligence system that correlates real-time telemetry, ML predictions, equipment health, alarms, and historical incident logs to detect compound operational risks before catastrophic failure.</b>
@@ -202,11 +202,11 @@ All primary systems, architectures, and production prototypes organized into one
   <tr>
     <td width="100%" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/02_FEATURED-TRADENEXUS-103D46?style=for-the-badge&labelColor=071923&color=63A6A0" alt="TradeNexus" />
+        <img src="https://img.shields.io/badge/02_FLAGSHIP-TRADENEXUS-2563EB?style=for-the-badge&labelColor=0B192C" alt="TradeNexus" />
         &nbsp;
-        <img src="https://img.shields.io/badge/Multilingual_CTRM-20%2B_AI_Agents-C6A66B?style=for-the-badge&labelColor=071923" alt="CTRM" />
+        <img src="https://img.shields.io/badge/Multilingual_CTRM-20%2B_AI_Agents-0284C7?style=for-the-badge&labelColor=0B192C" alt="CTRM" />
         &nbsp;
-        <a href="https://github.com/sachdeva-aarushi/TradeNexus"><img src="https://img.shields.io/badge/GitHub-Repository_&rarr;-071923?style=for-the-badge&logo=github&logoColor=63A6A0" alt="Repo" /></a>
+        <a href="https://github.com/sachdeva-aarushi/TradeNexus"><img src="https://img.shields.io/badge/GitHub-Repository_&rarr;-0B192C?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Repo" /></a>
       </p>
       <p>
         <b>A multilingual commodity intelligence and CTRM platform orchestrating 20+ specialized AI agents for deep market insights, risk hedging, and agricultural trade intelligence across Indian markets.</b>
@@ -234,9 +234,9 @@ All primary systems, architectures, and production prototypes organized into one
   <tr>
     <td width="50%" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/03_CIVIC_TECH-MATSETU-63A6A0?style=flat-square&labelColor=071923" alt="MatSetu" />
+        <img src="https://img.shields.io/badge/03_CIVIC_TECH-MATSETU-1D4ED8?style=flat-square&labelColor=0B192C" alt="MatSetu" />
         <br>
-        <img src="https://img.shields.io/badge/1st_Runner_Up-SnowFrost_Hackathon_'26-C6A66B?style=flat-square&labelColor=071923" alt="Hackathon Winner" />
+        <img src="https://img.shields.io/badge/1st_Runner_Up-SnowFrost_Hackathon_2026-0284C7?style=flat-square&labelColor=0B192C" alt="Hackathon Winner" />
       </p>
       <p>
         <b>Forensic Auditing Platform for Electoral Rolls</b>
@@ -255,9 +255,9 @@ All primary systems, architectures, and production prototypes organized into one
     </td>
     <td width="50%" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/04_DECENTRALIZED-AGROCHAIN-2E635C?style=flat-square&labelColor=071923&color=63A6A0" alt="AgroChain" />
+        <img src="https://img.shields.io/badge/04_DECENTRALIZED-AGROCHAIN-2563EB?style=flat-square&labelColor=0B192C" alt="AgroChain" />
         <br>
-        <img src="https://img.shields.io/badge/2nd_Runner_Up-InOutHacks_'26-C6A66B?style=flat-square&labelColor=071923" alt="Hackathon Winner" />
+        <img src="https://img.shields.io/badge/2nd_Runner_Up-InOutHacks_2026-1E40AF?style=flat-square&labelColor=0B192C" alt="Hackathon Winner" />
       </p>
       <p>
         <b>Blockchain Agricultural Marketplace</b>
@@ -278,7 +278,7 @@ All primary systems, architectures, and production prototypes organized into one
   <tr>
     <td width="50%" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/05_TELEMETRY-GITINTEL-4A7C85?style=flat-square&labelColor=071923" alt="GitIntel" />
+        <img src="https://img.shields.io/badge/05_TELEMETRY-GITINTEL-0284C7?style=flat-square&labelColor=0B192C" alt="GitIntel" />
       </p>
       <p>
         <b>Full-Stack Repository Health & Telemetry Analyzer</b>
@@ -296,7 +296,7 @@ All primary systems, architectures, and production prototypes organized into one
     </td>
     <td width="50%" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/06_HEALTHCARE_AI-KYRO-18454F?style=flat-square&labelColor=071923&color=63A6A0" alt="Kyro" />
+        <img src="https://img.shields.io/badge/06_HEALTHCARE_AI-KYRO-1D4ED8?style=flat-square&labelColor=0B192C" alt="Kyro" />
       </p>
       <p>
         <b>Multi-Agent Healthcare Vendor Intelligence Platform</b>
@@ -316,7 +316,7 @@ All primary systems, architectures, and production prototypes organized into one
   <tr>
     <td width="50%" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/07_ADVERSARIAL_NLP-TOXICITY_DETECTOR-B38D4F?style=flat-square&labelColor=071923" alt="Toxicity" />
+        <img src="https://img.shields.io/badge/07_ADVERSARIAL_NLP-TOXICITY_DETECTOR-2563EB?style=flat-square&labelColor=0B192C" alt="Toxicity" />
       </p>
       <p>
         <b>Narrative Toxicity & Manipulation Detector</b>
@@ -334,9 +334,9 @@ All primary systems, architectures, and production prototypes organized into one
     </td>
     <td width="50%" valign="top">
       <p>
-        <img src="https://img.shields.io/badge/08_HEALTHCARE-NIMA-3B5B66?style=flat-square&labelColor=071923&color=C6A66B" alt="Nima" />
+        <img src="https://img.shields.io/badge/08_HEALTHCARE-NIMA-0369A1?style=flat-square&labelColor=0B192C" alt="Nima" />
         <br>
-        <img src="https://img.shields.io/badge/Selected_Builder-SheBuilds_Season_3-C6A66B?style=flat-square&labelColor=071923" alt="SheBuilds S3" />
+        <img src="https://img.shields.io/badge/Selected_Builder-SheBuilds_Season_3-0284C7?style=flat-square&labelColor=0B192C" alt="SheBuilds S3" />
       </p>
       <p>
         <b>Postpartum Recovery AI Companion</b>
@@ -410,33 +410,33 @@ All primary systems, architectures, and production prototypes organized into one
   <tr>
     <td width="20%" align="center">
       <p><b>SnowFrost '26</b></p>
-      <img src="https://img.shields.io/badge/1st_Runner_Up-C6A66B?style=for-the-badge&labelColor=071923" alt="1st Runner Up" />
+      <img src="https://img.shields.io/badge/1st_Runner_Up-0284C7?style=for-the-badge&labelColor=0B192C" alt="1st Runner Up" />
       <br>
       <sub>Jamia Hamdard</sub>
     </td>
     <td width="20%" align="center">
       <p><b>InOutHacks '26</b></p>
-      <img src="https://img.shields.io/badge/2nd_Runner_Up-C6A66B?style=for-the-badge&labelColor=071923" alt="2nd Runner Up" />
+      <img src="https://img.shields.io/badge/2nd_Runner_Up-1D4ED8?style=for-the-badge&labelColor=0B192C" alt="2nd Runner Up" />
+      <br>
+      <sub>JSS University</sub>
+    </td>
+    <td width="20%" align="center">
+      <p><b>TGL Blitz '26</b></p>
+      <img src="https://img.shields.io/badge/2nd_Runner_Up-2563EB?style=for-the-badge&labelColor=0B192C" alt="2nd Runner Up" />
       <br>
       <sub>JSS University</sub>
     </td>
     <td width="20%" align="center">
       <p><b>SheBuilds S3</b></p>
-      <img src="https://img.shields.io/badge/Top_210_Global-63A6A0?style=for-the-badge&labelColor=071923" alt="Top 210" />
+      <img src="https://img.shields.io/badge/Top_210_Global-0284C7?style=for-the-badge&labelColor=0B192C" alt="Top 210 Global" />
       <br>
       <sub>3,000+ Applicants</sub>
     </td>
     <td width="20%" align="center">
       <p><b>GSSoC 2026</b></p>
-      <img src="https://img.shields.io/badge/Top_2%25_(#818)-C6A66B?style=for-the-badge&labelColor=071923" alt="GSSoC #818" />
+      <img src="https://img.shields.io/badge/Top_2%25-Rank_818-1E40AF?style=for-the-badge&labelColor=0B192C" alt="Top 2% Rank 818" />
       <br>
       <sub>47,935 Builders</sub>
-    </td>
-    <td width="20%" align="center">
-      <p><b>Smartly Infra</b></p>
-      <img src="https://img.shields.io/badge/Global_#93-103D46?style=for-the-badge&labelColor=071923&color=63A6A0" alt="Global #93" />
-      <br>
-      <sub>AI Agents Track</sub>
     </td>
   </tr>
 </table>
@@ -452,9 +452,9 @@ All primary systems, architectures, and production prototypes organized into one
 ## &nbsp;Live Engineering Telemetry
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sachdeva-aarushi&show_icons=true&bg_color=071923&title_color=C6A66B&icon_color=63A6A0&text_color=E8E5DC&ring_color=C6A66B&border_color=103D46" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sachdeva-aarushi&show_icons=true&bg_color=0B192C&title_color=38BDF8&icon_color=2563EB&text_color=E2E8F0&ring_color=38BDF8&border_color=1E3A8A" alt="GitHub Stats" width="48%" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=sachdeva-aarushi&background=071923&stroke=103D46&ring=C6A66B&fire=63A6A0&currStreakLabel=C6A66B&currStreakNum=E8E5DC&sideLabels=63A6A0&sideNums=E8E5DC&dates=63A6A0&border=103D46" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=sachdeva-aarushi&background=0B192C&stroke=1E3A8A&ring=2563EB&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=F8FAFC&sideLabels=60A5FA&sideNums=E2E8F0&dates=93C5FD&border=1E3A8A" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
