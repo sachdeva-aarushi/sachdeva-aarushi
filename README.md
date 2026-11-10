@@ -31,33 +31,14 @@
 
 <table>
   <tr>
-    <td width="36%" align="center" valign="middle">
-      <img src="assets/aarushi.jpg" alt="Aarushi Sachdeva" width="100%" />
+    <td width="30%" align="center" valign="middle">
+      <img src="assets/aarushi_framed.png" alt="Aarushi Sachdeva" width="100%" />
       <br>
       <sub><b>AARUSHI SACHDEVA</b></sub><br>
-      <sub>AI/ML Engineer &bull; JSS University '29</sub>
+      <sub><code>AI/ML Developer &bull; 2nd Year Student</code></sub>
     </td>
-    <td width="64%" valign="top">
-      <h3>&nbsp;<code>// THE DIRECTIVE</code></h3>
-      <p>
-        I don't build toy demos or wrap basic API endpoints and call it AI. I engineer intelligent systems that tackle messy, real-world operational complexity under pressure.
-      </p>
-      <p>
-        Currently pursuing a <b>B.Tech in Computer Science (AI & ML)</b> at JSS University (<b>9.0 CGPA</b>), architecting autonomous agent workflows as an <b>AI/ML Developer at GDG OnCampus JSS</b>, shipping critical open-source patches in the <b>Global Top 2% of GSSoC 2026</b> (Rank #818 of 47k+), and competing as a <b>3x Hackathon Winner</b> who turns high-stress problem statements into functioning software by dawn.
-      </p>
-      <p>
-        From industrial risk intelligence correlating spatiotemporal plant telemetry to multilingual multi-agent CTRM platforms and forensic civic-tech diff engines, my work lives at the convergence of <b>machine learning, systems architecture, and relentless execution</b>.
-      </p>
-      <details>
-        <summary><b>&blacktriangleright; Core Operating Principles</b></summary>
-        <br>
-        <ul>
-          <li>✦&nbsp; <b>First-Principles Engineering:</b> Understand the math and telemetry, not just the library wrappers.</li>
-          <li>✦&nbsp; <b>Deterministic Guardrails:</b> Safety-governed advisory layers over hallucinatory LLM outputs.</li>
-          <li>✦&nbsp; <b>High Velocity, Zero Fluff:</b> Idea &rarr; prototype &rarr; stress-test &rarr; production deployment.</li>
-          <li>✦&nbsp; <b>Thoughtful UI/UX:</b> Even complex agentic backends deserve intuitive, art-directed interfaces.</li>
-        </ul>
-      </details>
+    <td width="70%" valign="middle">
+      <img src="assets/overview.svg" alt="Aarushi Sachdeva - System Directive &amp; Core Operating Principles" width="100%" />
     </td>
   </tr>
 </table>
@@ -75,22 +56,8 @@
       <br>
       <sub><code>[STATUS: TARGET_LOCKED]</code></sub>
     </td>
-    <td width="70%" valign="top">
-      <h4>&nbsp;<code>// TARGET ACQUISITION: REAL-WORLD SYSTEMS</code></h4>
-      <p>
-        Every architecture I design is locked onto an actual operational bottleneck. If a system doesn't move needles in <b>industrial safety</b>, <b>commodity liquidity</b>, <b>electoral integrity</b>, or <b>clinical procurement</b>, it doesn't leave my local branch.
-      </p>
-      <p>
-        <b>Quick Telemetry:</b>
-        <br>
-        ✦ <b>3x Hackathon Winner</b> &bull; SnowFrost '26 &bull; InOutHacks '26 &bull; SheBuilds Global
-        <br>
-        ✦ <b>Global Rank #818 / 47,935</b> &bull; GirlScript Summer of Code 2026 (Top 2%)
-        <br>
-        ✦ <b>Global Rank #93</b> &bull; Smartly Infra AI Agents Track
-        <br>
-        ✦ <b>Top 210 Builders Worldwide</b> &bull; SheBuilds S3 by Lovable (Selected from 3,000+ applicants)
-      </p>
+    <td width="70%" valign="middle">
+      <img src="assets/target-acquisition.svg" alt="Target Acquisition Telemetry" width="100%" />
     </td>
   </tr>
 </table>
@@ -233,7 +200,7 @@ Curated engineering domains, autonomous paradigms, and production frameworks eng
 <p align="center">
   <a href="https://gssoc.girlscript.org/profile/85b6e6df-a366-4ee2-bc18-1ef150b311a8"><img src="https://img.shields.io/badge/GSSoC_Verified_Profile-Leaderboard_%23818-1D4ED8?style=flat-square&logo=github&labelColor=0B192C" alt="Verified GSSoC Profile" /></a>
   &nbsp;
-  <a href="https://github.com/sachdeva-aarushi"><img src="https://img.shields.io/badge/GDG_OnCampus_JSS-AI%2FML_Developer-0284C7?style=flat-square&logo=google&labelColor=0B192C" alt="GDG Profile" /></a>
+  <a href="https://github.com/sachdeva-aarushi"><img src="https://img.shields.io/badge/GDG_OnCampus-AI%2FML_Developer-0284C7?style=flat-square&logo=google&labelColor=0B192C" alt="GDG Profile" /></a>
 </p>
 
 <br>
