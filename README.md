@@ -319,7 +319,7 @@ Curated engineering domains, autonomous paradigms, and production frameworks eng
 <!-- ======================================================= -->
 
 <p align="center">
-  <img src="assets/bioluminescence.gif" alt="Bioluminescent Spores" width="55%" />
+  <img src="assets/bioluminescence.gif" alt="Bioluminescent Spores" width="100%" />
 </p>
 
 <p align="center">
