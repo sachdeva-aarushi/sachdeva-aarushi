@@ -158,7 +158,9 @@ Curated engineering domains, autonomous paradigms, and production frameworks eng
 
 ## &nbsp;Engineering Portfolio & Systems
 
-A curated catalog of production systems, autonomous agent architectures, and award-winning hackathon solutions &mdash; organized into high-density engineering cards.
+<p>
+  <i>Curated production systems, autonomous multi-agent architectures, and award-winning hackathon solutions &mdash; styled in low-latency blue telemetry cards. Click any card to launch its repository.</i>
+</p>
 
 <br>
 
@@ -166,223 +168,75 @@ A curated catalog of production systems, autonomous agent architectures, and awa
   <!-- ROW 1: NOVA & TRADENEXUS -->
   <tr>
     <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/01_FLAGSHIP-NOVA-1D4ED8?style=for-the-badge&labelColor=0B192C" alt="Nova" />
-        <br>
-        <img src="https://img.shields.io/badge/Industrial_Risk-Live_Telemetry-DB2777?style=flat-square&labelColor=0B192C" alt="Telemetry" />
-        &nbsp;
-        <a href="https://github.com/sachdeva-aarushi/nova"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=38BDF8" alt="Repo" /></a>
-      </p>
-      <p>
-        <b>Industrial risk-intelligence engine predicting compound equipment failures from live sensor telemetry &amp; RAG incident memory.</b>
-      </p>
-      <ul>
-        <li><b>Anomaly Correlation:</b> Aligns physical operational thresholds with multi-factor ML degradation curves.</li>
-        <li><b>3D Digital Twin:</b> Real-time Three.js spatial telemetry with safety-governed operator advisories.</li>
-      </ul>
-      <p>
-        <code>PyTorch</code> &bull; <code>FastAPI</code> &bull; <code>pgvector</code> &bull; <code>Three.js</code> &bull; <code>WebSockets</code>
-      </p>
+      <a href="https://github.com/sachdeva-aarushi/nova">
+        <img src="assets/project-nova.svg" alt="Nova - Industrial Risk AI" width="100%" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/02_FLAGSHIP-TRADENEXUS-BE185D?style=for-the-badge&labelColor=0B192C" alt="TradeNexus" />
-        <br>
-        <img src="https://img.shields.io/badge/20%2B_AI_Agents-Commodity_CTRM-2563EB?style=flat-square&labelColor=0B192C" alt="CTRM" />
-        &nbsp;
-        <a href="https://github.com/sachdeva-aarushi/TradeNexus"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=F472B6" alt="Repo" /></a>
-      </p>
-      <p>
-        <b>Multilingual CTRM platform orchestrating 20+ autonomous agents for commodity arbitrage, risk pricing, and trade contracts.</b>
-      </p>
-      <ul>
-        <li><b>Multi-Agent Swarm:</b> Autonomous routing for cross-border volatility, FX hedges, and route optimization.</li>
-        <li><b>Multilingual NLP:</b> RAG intent synthesis across 9+ regional languages for localized trade documentation.</li>
-      </ul>
-      <p>
-        <code>AI Agents</code> &bull; <code>FastAPI</code> &bull; <code>pgvector</code> &bull; <code>WebSockets</code> &bull; <code>React</code>
-      </p>
+      <a href="https://github.com/sachdeva-aarushi/TradeNexus">
+        <img src="assets/project-tradenexus.svg" alt="TradeNexus - 20+ Agent CTRM Platform" width="100%" />
+      </a>
     </td>
   </tr>
-
   <!-- ROW 2: MATSETU & AGROCHAIN -->
   <tr>
     <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/03_CIVIC_TECH-MATSETU-1E40AF?style=for-the-badge&labelColor=0B192C" alt="MatSetu" />
-        <br>
-        <img src="https://img.shields.io/badge/1st_Runner_Up-SnowFrost_Hackathon-E11D48?style=flat-square&labelColor=0B192C" alt="Award" />
-        &nbsp;
-        <a href="https://github.com/sachdeva-aarushi/MatSetu"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=93C5FD" alt="Repo" /></a>
-      </p>
-      <p>
-        <b>Forensic civic-tech platform utilizing hash-based diffing to audit voter rolls and prioritize citizen grievances.</b>
-      </p>
-      <ul>
-        <li><b>Hackathon Winner:</b> 1st Runner Up at SnowFrost '26, Jamia Hamdard University.</li>
-        <li><b>O(n) Diff Engine:</b> High-throughput anomaly detection clustering 10,000+ civic records.</li>
-      </ul>
-      <p>
-        <code>Python</code> &bull; <code>NLP</code> &bull; <code>FastAPI</code> &bull; <code>React</code> &bull; <code>PostgreSQL</code>
-      </p>
+      <a href="https://github.com/sachdeva-aarushi/MatSetu">
+        <img src="assets/project-matsetu.svg" alt="MatSetu - AI Civic Tech" width="100%" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/04_DECENTRALIZED-AGROCHAIN-9D174D?style=for-the-badge&labelColor=0B192C" alt="AgroChain" />
-        <br>
-        <img src="https://img.shields.io/badge/2nd_Runner_Up-InOutHacks_2026-0284C7?style=flat-square&labelColor=0B192C" alt="Award" />
-        &nbsp;
-        <a href="https://github.com/sachdeva-aarushi/AgroChain"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=F472B6" alt="Repo" /></a>
-      </p>
-      <p>
-        <b>Decentralized agri-marketplace connecting farmers, FPOs, and buyers via traceable commodity escrow rails.</b>
-      </p>
-      <ul>
-        <li><b>Hackathon Winner:</b> 2nd Runner Up at InOutHacks '26, JSS University.</li>
-        <li><b>Smart Escrow:</b> Automated milestone payouts and farm-to-shelf batch provenance over IPFS.</li>
-      </ul>
-      <p>
-        <code>Solidity</code> &bull; <code>Web3.py</code> &bull; <code>Ethereum</code> &bull; <code>React</code> &bull; <code>IPFS</code>
-      </p>
+      <a href="https://github.com/sachdeva-aarushi/AgroChain">
+        <img src="assets/project-agrochain.svg" alt="AgroChain - Decentralized Agritech" width="100%" />
+      </a>
     </td>
   </tr>
-
   <!-- ROW 3: GITINTEL & KYRO -->
   <tr>
     <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/05_TELEMETRY-GITINTEL-1D4ED8?style=for-the-badge&labelColor=0B192C" alt="GitIntel" />
-        <br>
-        <img src="https://img.shields.io/badge/Velocity_Scoring-PR_Telemetry-DB2777?style=flat-square&labelColor=0B192C" alt="Telemetry" />
-        &nbsp;
-        <a href="https://github.com/sachdeva-aarushi/GitIntel"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=38BDF8" alt="Repo" /></a>
-      </p>
-      <p>
-        <b>Developer velocity analytics engine converting GitHub event streams into actionable engineering momentum scores.</b>
-      </p>
-      <ul>
-        <li><b>Async Telemetry:</b> Ingestion tracking PR review latency, churn ratios, and burst velocity.</li>
-        <li><b>Zero-Rate-Limit Cache:</b> In-memory Redis caching delivering sub-50ms analytics on large org repos.</li>
-      </ul>
-      <p>
-        <code>Python</code> &bull; <code>GitHub API</code> &bull; <code>Pandas</code> &bull; <code>FastAPI</code> &bull; <code>Chart.js</code>
-      </p>
+      <a href="https://github.com/sachdeva-aarushi/GitIntel">
+        <img src="assets/project-gitintel.svg" alt="GitIntel - PR Velocity Telemetry" width="100%" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/06_HEALTHCARE_AI-KYRO-BE185D?style=for-the-badge&labelColor=0B192C" alt="Kyro" />
-        <br>
-        <img src="https://img.shields.io/badge/Clinical_Triage-Differential_Diagnosis-0369A1?style=flat-square&labelColor=0B192C" alt="Healthcare" />
-        &nbsp;
-        <a href="https://github.com/sachdeva-aarushi/Kyro"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=F472B6" alt="Repo" /></a>
-      </p>
-      <p>
-        <b>Clinical symptom triage and differential diagnosis advisor delivering explainable AI risk assessments to frontline health workers.</b>
-      </p>
-      <ul>
-        <li><b>Severity Scoring:</b> Probabilistic multi-class classification for immediate red-flag escalations.</li>
-        <li><b>Explainable Auditing:</b> Feature importance breakdowns explaining diagnostic likelihoods to physicians.</li>
-      </ul>
-      <p>
-        <code>PyTorch</code> &bull; <code>Medical NLP</code> &bull; <code>Scikit-learn</code> &bull; <code>Flask</code> &bull; <code>Tailwind</code>
-      </p>
+      <a href="https://github.com/sachdeva-aarushi/Kyro">
+        <img src="assets/project-kyro.svg" alt="Kyro - Clinical Triage AI" width="100%" />
+      </a>
     </td>
   </tr>
-
   <!-- ROW 4: NARRATIVE TOXICITY DETECTOR & NIMA -->
   <tr>
     <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/07_ADVERSARIAL_NLP-TOXICITY_DETECTOR-2563EB?style=for-the-badge&labelColor=0B192C" alt="Toxicity" />
-        <br>
-        <img src="https://img.shields.io/badge/Contextual_Moderation-RoBERTa_SOTA-E11D48?style=flat-square&labelColor=0B192C" alt="SOTA" />
-        &nbsp;
-        <a href="https://github.com/sachdeva-aarushi/narrative-toxicity-detector"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=60A5FA" alt="Repo" /></a>
-      </p>
-      <p>
-        <b>Transformer moderation pipeline uncovering subtle sarcasm, indirect slurs, and adversarial leetspeak in online discourse.</b>
-      </p>
-      <ul>
-        <li><b>Context-Aware RoBERTa:</b> Fine-tuned architecture resilient against zero-width spaces and obfuscation.</li>
-        <li><b>Sub-50ms Inference:</b> Quantized production model optimized for real-time automated chat defense.</li>
-      </ul>
-      <p>
-        <code>Transformers</code> &bull; <code>DistilBERT</code> &bull; <code>PyTorch</code> &bull; <code>FastAPI</code> &bull; <code>Docker</code>
-      </p>
+      <a href="https://github.com/sachdeva-aarushi/narrative-toxicity-detector">
+        <img src="assets/project-toxicity.svg" alt="Narrative Toxicity Detector - Adversarial NLP" width="100%" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/08_HEALTHCARE-NIMA-9D174D?style=for-the-badge&labelColor=0B192C" alt="Nima" />
-        <br>
-        <img src="https://img.shields.io/badge/Selected_Builder-SheBuilds_Season_3-0284C7?style=flat-square&labelColor=0B192C" alt="Selected" />
-        &nbsp;
-        <a href="https://github.com/sachdeva-aarushi/Nima"><img src="https://img.shields.io/badge/GitHub-Repository_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=F472B6" alt="Repo" /></a>
-      </p>
-      <p>
-        <b>Vernacular maternal healthcare assistant delivering personalized trimester dietary guidance and reliable clinical Q&amp;A.</b>
-      </p>
-      <ul>
-        <li><b>Top Builder Selection:</b> Selected in Global Top 210 of 3,000+ builders for SheBuilds Season 3.</li>
-        <li><b>Hallucination-Free RAG:</b> Localized medical retrieval answering complex maternal nutrition queries.</li>
-      </ul>
-      <p>
-        <code>Generative AI</code> &bull; <code>RAG</code> &bull; <code>Python</code> &bull; <code>Next.js</code> &bull; <code>Tailwind</code>
-      </p>
+      <a href="https://github.com/sachdeva-aarushi/Nima">
+        <img src="assets/project-nima.svg" alt="Nima - Biometric Telemetry AI" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
+
+<br>
 
 <!-- EXPERIENCE & OPEN SOURCE -->
 <!-- ======================================================= -->
 
 ## &nbsp;Experience & Open Source Leadership
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/LEADERSHIP_%26_DEV-GDG_ONCAMPUS_JSS-1D4ED8?style=for-the-badge&labelColor=0B192C" alt="GDG OnCampus" />
-        <br>
-        <img src="https://img.shields.io/badge/Role-AI%2FML_Developer-DB2777?style=flat-square&labelColor=0B192C" alt="Role" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Domain-CV_%26_NLP-2563EB?style=flat-square&labelColor=0B192C" alt="Domain" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Timeline-March_2026_--_Present-BE185D?style=flat-square&labelColor=0B192C" alt="Timeline" />
-      </p>
-      <p>
-        <b>Engineering applied CV/NLP prototypes and leading technical AI workshops for 300+ campus developers.</b>
-      </p>
-      <ul>
-        <li><b>Applied ML Prototyping:</b> Collaborating on computer vision, deep learning, and NLP models using PyTorch &amp; Scikit-learn.</li>
-        <li><b>Community Leadership:</b> Directing technical problem statements, hackathon workflows, and campus tech summits.</li>
-      </ul>
-      <p>
-        <code>Python</code> &bull; <code>PyTorch</code> &bull; <code>Computer Vision</code> &bull; <code>NLP</code> &bull; <code>Scikit-learn</code> &bull; <code>Developer Mentorship</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/OPEN_SOURCE-GSSOC_2026-BE185D?style=for-the-badge&labelColor=0B192C" alt="GSSoC 2026" />
-        <br>
-        <img src="https://img.shields.io/badge/Global_Rank-Top_2%25_(%23818_%2F_47%2C935)-1E40AF?style=flat-square&labelColor=0B192C" alt="Rank" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Track-AI_Agents_%26_Python-EC4899?style=flat-square&labelColor=0B192C" alt="Track" />
-        &nbsp;
-        <a href="https://gssoc.girlscript.org/profile/85b6e6df-a366-4ee2-bc18-1ef150b311a8"><img src="https://img.shields.io/badge/GSSoC-Verified_Profile_%E2%86%92-0B192C?style=flat-square&logo=github&logoColor=F472B6" alt="Profile" /></a>
-      </p>
-      <p>
-        <b>Ranked in Global Top 2% among 47,935 contributors hardening autonomous multi-agent AI ecosystems.</b>
-      </p>
-      <ul>
-        <li><b>Autonomous Agent Graphs:</b> Engineered resilient execution loops, tool invocation paths, and agent orchestration.</li>
-        <li><b>Production Vulnerability Fixes:</b> Neutralized prompt-injection exploits, server crashes, and concurrency deadlocks.</li>
-      </ul>
-      <p>
-        <code>AI Agents</code> &bull; <code>Python</code> &bull; <code>FastAPI</code> &bull; <code>Prompt Defense</code> &bull; <code>Git Workflows</code> &bull; <code>Security Auditing</code>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/experience.svg" alt="Leadership and Open Source Experience" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://gssoc.girlscript.org/profile/85b6e6df-a366-4ee2-bc18-1ef150b311a8"><img src="https://img.shields.io/badge/GSSoC_Verified_Profile-Leaderboard_%23818-1D4ED8?style=flat-square&logo=github&labelColor=0B192C" alt="Verified GSSoC Profile" /></a>
+  &nbsp;
+  <a href="https://github.com/sachdeva-aarushi"><img src="https://img.shields.io/badge/GDG_OnCampus_JSS-AI%2FML_Developer-0284C7?style=flat-square&logo=google&labelColor=0B192C" alt="GDG Profile" /></a>
+</p>
+
+<br>
 
 <!-- HONORS & ACHIEVEMENTS -->
 <!-- ======================================================= -->
