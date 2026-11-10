@@ -1,0 +1,121 @@
+<svg width="920" height="230" viewBox="0 0 920 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .mono {
+      font-family: 'JetBrains Mono', 'Fira Code', 'SF Pro Mono', 'Segoe UI Mono', monospace;
+    }
+    .sans {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Text', Roboto, sans-serif;
+    }
+  </style>
+
+  <!-- Outer Console Container -->
+  <rect x="1" y="1" width="918" height="228" rx="8" fill="#07111E" stroke="#1E3A8A" stroke-width="1.2" />
+
+  <!-- Console Header Bar -->
+  <circle cx="18" cy="22" r="4" fill="#38BDF8" />
+  <text x="28" y="26" class="mono" font-size="11" font-weight="700" letter-spacing="1.2" fill="#93C5FD">LEADERSHIP_&amp;_ENGINEERING_EXPERIENCE</text>
+  <text x="902" y="26" class="mono" font-size="10" fill="#60A5FA" text-anchor="end">STATUS: ACTIVE_IMPACT // VERIFIED</text>
+  <line x1="16" y1="36" x2="904" y2="36" stroke="#1E3A8A" stroke-width="1" opacity="0.5" />
+
+  <!-- LEFT CARD: GDG ONCAMPUS JSS -->
+  <g transform="translate(16, 46)">
+    <rect width="436" height="170" rx="6" fill="#0B192C" stroke="#1D4ED8" stroke-width="1.2" />
+    
+    <!-- Badges Row -->
+    <rect x="14" y="12" width="154" height="22" rx="4" fill="#1D4ED8" />
+    <circle cx="22" cy="23" r="2.5" fill="#38BDF8" />
+    <text x="30" y="27" class="mono" font-size="11" font-weight="700" fill="#F8FAFC">GDG ONCAMPUS JSS</text>
+
+    <rect x="174" y="12" width="138" height="22" rx="4" fill="#10243E" stroke="#1E426F" stroke-width="1" />
+    <text x="182" y="27" class="mono" font-size="10.5" font-weight="600" fill="#38BDF8">AI/ML DEVELOPER</text>
+
+    <rect x="318" y="12" width="104" height="22" rx="4" fill="#10243E" stroke="#1E426F" stroke-width="1" />
+    <text x="326" y="27" class="mono" font-size="10" font-weight="500" fill="#93C5FD">2026 &#8212; PRES</text>
+
+    <!-- Shortened Description -->
+    <text x="14" y="56" class="sans" font-size="12" font-weight="400" fill="#E2E8F0">Engineering applied CV &amp; NLP prototypes and leading technical AI</text>
+    <text x="14" y="74" class="sans" font-size="12" font-weight="400" fill="#E2E8F0">workshops for 300+ campus developers. Directing hackathon tracks.</text>
+
+    <!-- Tech Chips -->
+    <g transform="translate(14, 98)">
+      <rect width="70" height="20" rx="4" fill="#10243E" stroke="#1E426F" stroke-width="1" />
+      <circle cx="7" cy="10" r="2" fill="#38BDF8" />
+      <text x="14" y="14" class="mono" font-size="10.5" fill="#F8FAFC">PyTorch</text>
+    </g>
+    <g transform="translate(90, 98)">
+      <rect width="120" height="20" rx="4" fill="#10243E" stroke="#1E426F" stroke-width="1" />
+      <circle cx="7" cy="10" r="2" fill="#38BDF8" />
+      <text x="14" y="14" class="mono" font-size="10.5" fill="#F8FAFC">Computer Vision</text>
+    </g>
+    <g transform="translate(216, 98)">
+      <rect width="48" height="20" rx="4" fill="#10243E" stroke="#1E426F" stroke-width="1" />
+      <circle cx="7" cy="10" r="2" fill="#38BDF8" />
+      <text x="14" y="14" class="mono" font-size="10.5" fill="#F8FAFC">NLP</text>
+    </g>
+    <g transform="translate(270, 98)">
+      <rect width="90" height="20" rx="4" fill="#10243E" stroke="#1E426F" stroke-width="1" />
+      <circle cx="7" cy="10" r="2" fill="#38BDF8" />
+      <text x="14" y="14" class="mono" font-size="10.5" fill="#F8FAFC">Scikit-learn</text>
+    </g>
+    <g transform="translate(366, 98)">
+      <rect width="56" height="20" rx="4" fill="#10243E" stroke="#1E426F" stroke-width="1" />
+      <circle cx="7" cy="10" r="2" fill="#38BDF8" />
+      <text x="14" y="14" class="mono" font-size="10.5" fill="#F8FAFC">Mentorship</text>
+    </g>
+
+    <!-- Footer -->
+    <line x1="14" y1="136" x2="422" y2="136" stroke="#1E3A8A" stroke-width="0.8" stroke-dasharray="2 2" opacity="0.6" />
+    <text x="14" y="152" class="mono" font-size="9.5" fill="#60A5FA">// APPLIED ML PROTOTYPES &#8226; COMMUNITY SUMMITS</text>
+  </g>
+
+  <!-- RIGHT CARD: GSSOC 2026 -->
+  <g transform="translate(468, 46)">
+    <rect width="436" height="170" rx="6" fill="#0B192C" stroke="#0284C7" stroke-width="1.2" />
+    
+    <!-- Badges Row -->
+    <rect x="14" y="12" width="102" height="22" rx="4" fill="#0284C7" />
+    <circle cx="22" cy="23" r="2.5" fill="#38BDF8" />
+    <text x="30" y="27" class="mono" font-size="11" font-weight="700" fill="#F8FAFC">GSSOC 2026</text>
+
+    <rect x="122" y="12" width="158" height="22" rx="4" fill="#10243E" stroke="#0369A1" stroke-width="1" />
+    <text x="130" y="27" class="mono" font-size="10.5" font-weight="600" fill="#38BDF8">OPEN SOURCE CONTRIBUTOR</text>
+
+    <rect x="286" y="12" width="136" height="22" rx="4" fill="#10243E" stroke="#0369A1" stroke-width="1" />
+    <text x="294" y="27" class="mono" font-size="10" font-weight="500" fill="#93C5FD">TOP 2% (#818/47,935)</text>
+
+    <!-- Shortened Description -->
+    <text x="14" y="56" class="sans" font-size="12" font-weight="400" fill="#E2E8F0">Merged production PRs across active open-source AI repos,</text>
+    <text x="14" y="74" class="sans" font-size="12" font-weight="400" fill="#E2E8F0">optimizing model workflows, CI pipelines, and developer tooling.</text>
+
+    <!-- Tech Chips -->
+    <g transform="translate(14, 98)">
+      <rect width="62" height="20" rx="4" fill="#10243E" stroke="#0369A1" stroke-width="1" />
+      <circle cx="7" cy="10" r="2" fill="#38BDF8" />
+      <text x="14" y="14" class="mono" font-size="10.5" fill="#F8FAFC">Python</text>
+    </g>
+    <g transform="translate(82, 98)">
+      <rect width="66" height="20" rx="4" fill="#10243E" stroke="#0369A1" stroke-width="1" />
+      <circle cx="7" cy="10" r="2" fill="#38BDF8" />
+      <text x="14" y="14" class="mono" font-size="10.5" fill="#F8FAFC">FastAPI</text>
+    </g>
+    <g transform="translate(154, 98)">
+      <rect width="98" height="20" rx="4" fill="#10243E" stroke="#0369A1" stroke-width="1" />
+      <circle cx="7" cy="10" r="2" fill="#38BDF8" />
+      <text x="14" y="14" class="mono" font-size="10.5" fill="#F8FAFC">Git Workflows</text>
+    </g>
+    <g transform="translate(258, 98)">
+      <rect width="88" height="20" rx="4" fill="#10243E" stroke="#0369A1" stroke-width="1" />
+      <circle cx="7" cy="10" r="2" fill="#38BDF8" />
+      <text x="14" y="14" class="mono" font-size="10.5" fill="#F8FAFC">Code Reviews</text>
+    </g>
+    <g transform="translate(352, 98)">
+      <rect width="70" height="20" rx="4" fill="#10243E" stroke="#0369A1" stroke-width="1" />
+      <circle cx="7" cy="10" r="2" fill="#38BDF8" />
+      <text x="14" y="14" class="mono" font-size="10.5" fill="#F8FAFC">CI/CD Test</text>
+    </g>
+
+    <!-- Footer -->
+    <line x1="14" y1="136" x2="422" y2="136" stroke="#0369A1" stroke-width="0.8" stroke-dasharray="2 2" opacity="0.6" />
+    <text x="14" y="152" class="mono" font-size="9.5" fill="#60A5FA">// TOP 2% GLOBAL RANK &#8226; HIGH-VELOCITY MERGED PRs</text>
+  </g>
+</svg>
