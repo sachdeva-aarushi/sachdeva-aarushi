@@ -51,22 +51,22 @@
       animation: scan-track 4s infinite linear;
     }
   
-    .card-bg-pink {
+    .card-bg-cyan {
       fill: #0B192C;
-      stroke: #BE185D;
+      stroke: #0284C7;
       stroke-width: 1.2;
     }
-    .pill-dot-pink {
-      fill: #F472B6;
+    .pill-dot-cyan {
+      fill: #38BDF8;
     }
-    .pill-bg-pink {
+    .pill-bg-cyan {
       fill: #10243E;
-      stroke: #831843;
+      stroke: #0369A1;
       stroke-width: 1;
     }
-    .pulse-pip-pink {
+    .pulse-pip-cyan {
       animation: pulse-blue 2.4s infinite ease-in-out;
-      fill: #F472B6;
+      fill: #38BDF8;
     }
 
   </style>
@@ -151,51 +151,51 @@
   <!-- ======================================================== -->
   <!-- CARD 2: AGENTIC AI & RAG ARCHITECTURES (Top Right: x=468, y=52, w=436, h=190) -->
   <!-- ======================================================== -->
-  <rect x="468" y="52" width="436" height="190" rx="6" class="card-bg-pink" />
+  <rect x="468" y="52" width="436" height="190" rx="6" class="card-bg-cyan" />
 
   <!-- Category Header Pill -->
-  <rect x="478" y="62" width="248" height="22" rx="4" fill="#BE185D" />
-  <circle cx="490" cy="73" r="3" class="pulse-pip-pink" />
+  <rect x="478" y="62" width="248" height="22" rx="4" fill="#0284C7" />
+  <circle cx="490" cy="73" r="3" class="pulse-pip-cyan" />
   <text x="500" y="77" class="mono category-title" fill="#F8FAFC">AGENTIC AI &amp; RAG SYSTEMS</text>
 
   <!-- Pills Row 1 -->
   <g transform="translate(478, 96)">
-    <rect x="0" y="0" width="168" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="10" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="0" y="0" width="168" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="10" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="18" y="16" class="sans pill-text">Multi-Agent Swarms</text>
 
-    <rect x="176" y="0" width="144" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="186" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="176" y="0" width="144" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="186" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="194" y="16" class="sans pill-text">RAG Architectures</text>
 
-    <rect x="328" y="0" width="88" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="338" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="328" y="0" width="88" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="338" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="346" y="16" class="sans pill-text">LangChain</text>
   </g>
 
   <!-- Pills Row 2 -->
   <g transform="translate(478, 128)">
-    <rect x="0" y="0" width="186" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="10" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="0" y="0" width="186" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="10" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="18" y="16" class="sans pill-text">Vector DBs (pgvector, FAISS)</text>
 
-    <rect x="194" y="0" width="134" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="204" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="194" y="0" width="134" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="204" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="212" y="16" class="sans pill-text">Incident Memory</text>
 
-    <rect x="336" y="0" width="80" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="346" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="336" y="0" width="80" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="346" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="354" y="16" class="sans pill-text">LlamaIndex</text>
   </g>
 
   <!-- Pills Row 3 -->
   <g transform="translate(478, 160)">
-    <rect x="0" y="0" width="198" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="10" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="0" y="0" width="198" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="10" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="18" y="16" class="sans pill-text">Tool-Use &amp; Function Calling</text>
 
-    <rect x="206" y="0" width="152" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="216" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="206" y="0" width="152" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="216" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="224" y="16" class="sans pill-text">Prompt Engineering</text>
   </g>
 
@@ -275,7 +275,7 @@
   <!-- ======================================================== -->
   <!-- CARD 4: LANGUAGES & INTERFACES (Bottom Right: x=468, y=254, w=436, h=190) -->
   <!-- ======================================================== -->
-  <rect x="468" y="254" width="436" height="190" rx="6" class="card-bg-pink" />
+  <rect x="468" y="254" width="436" height="190" rx="6" class="card-bg-royal" />
 
   <!-- Category Header Pill -->
   <rect x="478" y="264" width="220" height="22" rx="4" fill="#2563EB" />
@@ -284,58 +284,58 @@
 
   <!-- Pills Row 1 -->
   <g transform="translate(478, 298)">
-    <rect x="0" y="0" width="72" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="10" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="0" y="0" width="72" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="10" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="18" y="16" class="sans pill-text">Python</text>
 
-    <rect x="80" y="0" width="58" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="90" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="80" y="0" width="58" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="90" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="98" y="16" class="sans pill-text">C++</text>
 
-    <rect x="146" y="0" width="94" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="156" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="146" y="0" width="94" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="156" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="164" y="16" class="sans pill-text">TypeScript</text>
 
-    <rect x="248" y="0" width="90" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="258" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="248" y="0" width="90" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="258" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="266" y="16" class="sans pill-text">JavaScript</text>
 
-    <rect x="346" y="0" width="68" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="356" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="346" y="0" width="68" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="356" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="364" y="16" class="sans pill-text">React</text>
   </g>
 
   <!-- Pills Row 2 -->
   <g transform="translate(478, 330)">
-    <rect x="0" y="0" width="76" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="10" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="0" y="0" width="76" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="10" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="18" y="16" class="sans pill-text">Next.js</text>
 
-    <rect x="84" y="0" width="102" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="94" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="84" y="0" width="102" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="94" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="102" y="16" class="sans pill-text">Tailwind CSS</text>
 
-    <rect x="194" y="0" width="148" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="204" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="194" y="0" width="148" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="204" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="212" y="16" class="sans pill-text">Three.js (3D Twins)</text>
 
-    <rect x="350" y="0" width="64" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="360" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="350" y="0" width="64" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="360" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="368" y="16" class="sans pill-text">WebGL</text>
   </g>
 
   <!-- Pills Row 3 -->
   <g transform="translate(478, 362)">
-    <rect x="0" y="0" width="112" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="10" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="0" y="0" width="112" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="10" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="18" y="16" class="sans pill-text">Git / GitHub</text>
 
-    <rect x="120" y="0" width="128" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="130" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="120" y="0" width="128" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="130" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="138" y="16" class="sans pill-text">Linux / Bash CLI</text>
 
-    <rect x="256" y="0" width="158" height="24" rx="4" class="pill-bg-pink" />
-    <circle cx="266" cy="12" r="2.5" class="pill-dot-pink" />
+    <rect x="256" y="0" width="158" height="24" rx="4" class="pill-bg-cyan" />
+    <circle cx="266" cy="12" r="2.5" class="pill-dot-cyan" />
     <text x="274" y="16" class="sans pill-text">CI/CD &amp; Testing</text>
   </g>
 
