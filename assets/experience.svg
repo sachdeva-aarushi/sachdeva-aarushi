@@ -17,14 +17,14 @@
   <text x="902" y="26" class="mono" font-size="10" fill="#60A5FA" text-anchor="end">STATUS: ACTIVE_IMPACT // VERIFIED</text>
   <line x1="16" y1="36" x2="904" y2="36" stroke="#1E3A8A" stroke-width="1" opacity="0.5" />
 
-  <!-- LEFT CARD: GDG ONCAMPUS JSS -->
+  <!-- LEFT CARD: GDG ONCAMPUS -->
   <g transform="translate(16, 46)">
     <rect width="436" height="170" rx="6" fill="#0B192C" stroke="#1D4ED8" stroke-width="1.2" />
     
     <!-- Badges Row -->
-    <rect x="14" y="12" width="154" height="22" rx="4" fill="#1D4ED8" />
+    <rect x="14" y="12" width="134" height="22" rx="4" fill="#1D4ED8" />
     <circle cx="22" cy="23" r="2.5" fill="#38BDF8" />
-    <text x="30" y="27" class="mono" font-size="11" font-weight="700" fill="#F8FAFC">GDG ONCAMPUS JSS</text>
+    <text x="30" y="27" class="mono" font-size="11" font-weight="700" fill="#F8FAFC">GDG ONCAMPUS</text>
 
     <rect x="174" y="12" width="138" height="22" rx="4" fill="#10243E" stroke="#1E426F" stroke-width="1" />
     <text x="182" y="27" class="mono" font-size="10.5" font-weight="600" fill="#38BDF8">AI/ML DEVELOPER</text>
